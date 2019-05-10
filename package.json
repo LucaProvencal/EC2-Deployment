@@ -1,0 +1,22 @@
+{
+  "name": "ec2-deployment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LucaProvencal/EC2-Deployment.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LucaProvencal/EC2-Deployment/issues"
+  },
+  "homepage": "https://github.com/LucaProvencal/EC2-Deployment#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
